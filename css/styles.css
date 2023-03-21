@@ -177,3 +177,36 @@ margin: 40px auto 60px;
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+
+  @media (max-width: 767px) {
+
+    .top-cloud {
+        width: 20%;
+    }
+    .bottom-cloud {
+
+        width: 20%;
+    }
+
+    .mountain {
+
+        width: 70%;
+    }
+
+    .getintouch{
+
+        font-size: 1.2rem;
+
+    }
+
+    .connect {
+
+        font-size: 1rem;
+    }
+
+    .btn {
+
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    }
+  
